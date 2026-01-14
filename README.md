@@ -5,9 +5,8 @@ Minimal, single-header dynamic array (vector) for C.
 - Type-safe via macro code generation (not macro function calls)
 - ANSI C
 - Header-only
-- Dynamic resizing with configurable growth factor
+- Dynamic resizing
 - Configurable memory allocators
-- Full memory management with overflow protection
 
 ## Quick Start
 
